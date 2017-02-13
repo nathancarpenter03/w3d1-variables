@@ -11,7 +11,7 @@ var favShowsAndMovies = ['Breaking Bad', 'Game of Thrones', 'The Wire', 'Pulp Fi
 var jobTitleIn5Years;
 var lifeWithoutJS = null;
 
-console.log (firstName, lastName, fullName, email, grewUpinCity, numYearsInCollege, numPets, numHoursSleepAvg, favMusicGenre, favShowsAndMovies, jobTitleIn5Years, lifeWithoutJs);
+console.log (firstName, lastName, fullName, email, grewUpInCity, numYearsInCollege, numPets, numHoursSleepAvg, favMusicGenre, favShowsAndMovies, jobTitleIn5Years, lifeWithoutJS);
 
 
 // Adventurer Mode 
@@ -19,7 +19,7 @@ console.log (firstName, lastName, fullName, email, grewUpinCity, numYearsInColle
 var graduationYear = 2009;
 
 var Date = {
-    GraduationYear: 2009;
+    GraduationYear: 2009
 };
 
 // Epic Mode
